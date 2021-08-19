@@ -1,4 +1,4 @@
-package com.shaunak;
+package com.basics;
 
 import java.util.Scanner;
 
